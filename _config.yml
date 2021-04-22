@@ -18,9 +18,9 @@ email: 'inigoval@gmail.com'
 description: "Applying cutting edge machine learning to improve radio astronomy data pipelines."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://inigoval.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 
+twitter_username: 'InigoVal1'
 github_username: 'inigoval'
-medium_username: 
+medium_username: ''
 
 # Build settings
 markdown: kramdown
@@ -89,9 +89,9 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
+footer_text: ''
+admin_name: 'Inigo Val'
+google_analytics: "" # Update with your own tracking ID
 enable_contact: false
 
 #### Phantom Navigation menu
