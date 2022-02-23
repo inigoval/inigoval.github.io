@@ -7,6 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://inigoval.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>quick resume</title>
+      <link>https://inigoval.github.io/quickresume/</link>
+      <pubDate>Wed, 23 Feb 2022 15:22:38 +0000</pubDate>
+      
+      <guid>https://inigoval.github.io/quickresume/</guid>
+      <description>Education MPhys - Oxford University (Jesus College) - Scholar
+4 year integrated masters degree, focus on Theoretical Physics and Astrophysics. Awarded a scholarship by Jesus College for high academic achievement. Masters thesis applied machine learning to pulsar classification.
+Research &amp;amp; Professional Experience PhD Student | 09.20 - Present | Manchester, UK
+Applying machine learning to astronomical image classification, particularly with very large data-sets with few labels and a hierarchical, fine-grained class structure.</description>
+    </item>
+    
+    <item>
       <title>Resume</title>
       <link>https://inigoval.github.io/resume/</link>
       <pubDate>Tue, 22 Feb 2022 14:24:12 +0000</pubDate>
@@ -34,8 +46,7 @@ Applying &amp;amp; developing cutting edge machine learning techniques to improv
       
       <guid>https://inigoval.github.io/about/</guid>
       <description>Machine learning/Astronomy PhD student with Dr Anna Scaife @ University of Manchester. University of Oxford MPhys graduate.
-My PhD work involves building robust machine learning systems process the vast deluge of data (exabyte scale) we are about to receive from next-generation telescopes. Since this much data cannot be curated by humans, we need AI that can deal with messy, real-world data with few labels and many possible anomalies.
-My research has included semi-supervised learning and use of unlabelled data for improved classification in the astronomy domain, bespoke contrastive learning applied to astronomical data-sets and use of generative algorithms to simulate astronomical objects.</description>
+Research and PhD Work I am working on building robust machine learning systems to process the vast deluge of data (exabyte scale) we are about to receive from next-generation telescopes. Since this much data cannot be curated by humans, we need AI that can deal with messy, real-world data with few labels and many possible anomalies.</description>
     </item>
     
   </channel>
