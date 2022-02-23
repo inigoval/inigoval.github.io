@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inigo Val Slijepcevic</title>
+    <link>https://inigoval.github.io/</link>
+    <description>Recent content on Inigo Val Slijepcevic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://inigoval.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>https://inigoval.github.io/resume/</link>
+      <pubDate>Tue, 22 Feb 2022 14:24:12 +0000</pubDate>
+      
+      <guid>https://inigoval.github.io/resume/</guid>
+      <description>Education MPhys - Oxford University (Jesus College) - Scholar
+4 year integrated masters degree, with focus on Theoretical Physics and Astrophysics. Awarded a scholarship by Jesus College for high academic achievement.
+Research &amp;amp; Professional Experience PhD Student | 09.20 - Present | Manchester, UK
+Applying &amp;amp; developing cutting edge machine learning techniques to improve radio galaxy classification. Currently developing bespoke contrastive learning techniques for astronomical data. Used semi-supervised learning to leverage unlabelled data for classification.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://inigoval.github.io/publications/</link>
+      <pubDate>Tue, 22 Feb 2022 13:59:02 +0000</pubDate>
+      
+      <guid>https://inigoval.github.io/publications/</guid>
+      <description>NeurIPS 2021 | Machine Learning and the Physical Sciences Workshop | Can semi-supervised learning reduce the amount of manual labelling required for effective radio galaxy morphology classification? | https://github.com/inigoval/fixmatch</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://inigoval.github.io/about/</link>
+      <pubDate>Tue, 22 Feb 2022 12:18:29 +0000</pubDate>
+      
+      <guid>https://inigoval.github.io/about/</guid>
+      <description>Machine learning/Astronomy PhD student with Dr Anna Scaife @ University of Manchester. University of Oxford MPhys graduate.
+My PhD work involves building robust machine learning systems process the vast deluge of data (exabyte scale) we are about to receive from next-generation telescopes. Since this much data cannot be curated by humans, we need AI that can deal with messy, real-world data with few labels and many possible anomalies.
+My research has included semi-supervised learning and use of unlabelled data for improved classification in the astronomy domain, bespoke contrastive learning applied to astronomical data-sets and use of generative algorithms to simulate astronomical objects.</description>
+    </item>
+    
+  </channel>
+</rss>
